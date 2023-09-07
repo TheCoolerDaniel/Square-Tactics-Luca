@@ -1,1 +1,2 @@
-# Square-Tactics-Luca
+# Square-Tactics
+square
